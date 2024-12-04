@@ -53,7 +53,7 @@ function showFunction($book) {
                 </tr>
               </thead>
               <tbody>';
-        // Wrap the table with a container div and set the width to 75%
+        // Wrap the table with a container div and set the width to 75
         
         
         for ($i = 0; $i < count($book); $i++) { // $i == Student
